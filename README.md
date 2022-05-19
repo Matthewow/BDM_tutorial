@@ -1,2 +1,0 @@
-# bdm_tutorial
- 
