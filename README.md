@@ -4,6 +4,7 @@
 
 - [x]  Signatrure generating
 - [x]  Inverted File
+- [x]  Edit distance
 
 **Topic 7 Top K Query on Uncertain Data**
 
